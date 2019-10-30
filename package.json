@@ -1,0 +1,23 @@
+{
+  "name": "webreportviewer",
+  "version": "1.0.0",
+  "description": "Web app to show reports web and switch thems between certain time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irnias/webReportView.git"
+  },
+  "keywords": [
+    "web",
+    "reports"
+  ],
+  "author": "Ramiro D'Accorso https://twitter.com/irnias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Irnias/webReportView/issues"
+  },
+  "homepage": "https://github.com/Irnias/webReportView#readme"
+}
